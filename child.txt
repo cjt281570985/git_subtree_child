@@ -7,3 +7,4 @@ child init
 77777777
 88 parent
 99c
+1010
