@@ -11,3 +11,4 @@ child init
 aaa
 bbb
 9999
+0000
